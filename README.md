@@ -5,7 +5,7 @@ Sou um entusiasta da tecnologia que começou a jornada de programação em 2018.
 
 ### Amostra de alguns trabalhos desenvolvidos por mim para Asteca Contabilidade.
 ---
-## GPTs Personalizados -> Asteca Contabilidade
+## 🌐 GPTs da Asteca Contabilidade
 
 Todos os consultores estão à disposição para tirar suas dúvidas de acordo com cada tema.  
 > ⚡ Este é o repositório dos meus Custom GPT's desenvolvidos como soluções para o ramo de contabilidade.
@@ -14,12 +14,17 @@ Todos os consultores estão à disposição para tirar suas dúvidas de acordo c
 
 ### 📊 CONTÁBIL
 
+- [Análise Contábil](https://chatgpt.com/g/g-68d68045255481919a086f80ab3def8d-analise-contabil-aia)  
+
 - [Consultor ECD e ECF](https://chatgpt.com/g/g-68d544f6b0f881918a760f9a342c901d-consultor-ecd-e-ecf-aia)  
 - [Consultor NBC 🔒](https://chatgpt.com/g/g-68d539aca2908191aedd5ec5951a7397-consultor-nbc-aia)  
 
 ---
 
 ### 👥 DEPARTAMENTO PESSOAL (DP)
+
+- [Análise Folha de Pagamento](https://chatgpt.com/g/g-68d691306cec8191ba970aaeef76b0a4-analise-de-folha-de-pagamento-aia)  
+- [Análise de CCT](https://chatgpt.com/g/g-68d687afc44481918b6f4f19f3443d66-analise-de-cct-aia)  
 
 - [Consultor Trabalhista](https://chatgpt.com/g/g-68cd47d509788191a2d03d370eba7535-consultor-trabalhista-aia)  
 - [Menor Aprendiz](https://chatgpt.com/g/g-68d1634eba5481918916c46ac357e3ea-menor-aprendiz-aia)  
@@ -62,10 +67,11 @@ Todos os consultores estão à disposição para tirar suas dúvidas de acordo c
 
 ### 📈 ANÁLISES
 
+- [Análise de Investimentos](https://chatgpt.com/g/g-689c68ffd3bc8191bd7461d38027fb30-analise-de-investimentos-aias)  
+
 - [Análise de KPIs](https://chatgpt.com/g/g-67b608e9d3a88191a97de0842c337a7d-analise-de-kpi-aia)  
 - [Análise de Investimentos](https://chatgpt.com/g/g-689c68ffd3bc8191bd7461d38027fb30-analise-de-investimentos-aia)  
-- [Análise de Estoques e Inventários](https://chatgpt.com/g/g-689f3e469ae081919120f02cb08fbdca-analise-de-estoque-aia)  
-- [Análise de DRE e KPIs](https://chatgpt.com/g/g-67b608e9d3a88191a97de0842c337a7d-analise-de-kpi-aia)  
+- [Análise de Estoques e Inventários](https://chatgpt.com/g/g-689f3e469ae081919120f02cb08fbdca-analise-de-estoque-aia)    
 
 ---
 
@@ -73,4 +79,4 @@ Todos os consultores estão à disposição para tirar suas dúvidas de acordo c
 
 - [Mentes Mestras](https://chatgpt.com/g/g-682f19dcd6b481919a82e03555bdc54e-mentes-mestras-2-0-aia)  
 - [Branding (Marketing Geral)](https://chatgpt.com/g/g-68336d48555c8191a7672c91b6037940-branding-2-0-aia)  
-- [Linhas Editoriais (Diretor de Filmagem/Redator)](https://chatgpt.com/g/g-682e15a95f708191ae0768ab293edda2-planejador-de-conteudo-aia)  
+- [Linhas Editoriais (Diretor de Filmagem/Redator)](https://chatgpt.com/g/g-682e15a95f708191ae0768ab293edda2-planejador-de-conteudo-aia)
